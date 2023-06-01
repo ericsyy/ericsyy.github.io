@@ -6,7 +6,7 @@
   <link href="https://blog.erics.ml/atom.xml" rel="self"/>
   
   <link href="https://blog.erics.ml/"/>
-  <updated>2023-06-01T11:45:15.431Z</updated>
+  <updated>2023-06-01T11:55:35.124Z</updated>
   <id>https://blog.erics.ml/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.erics.ml/2023/06/01/MIUI12.5%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%84/"/>
     <id>https://blog.erics.ml/2023/06/01/MIUI12.5%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%84/</id>
     <published>2023-06-01T11:25:14.624Z</published>
-    <updated>2023-06-01T11:45:15.431Z</updated>
+    <updated>2023-06-01T11:55:35.124Z</updated>
     
     
     <summary type="html">MIUI 12.5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。</summary>
@@ -69,7 +69,7 @@
     <link href="https://blog.erics.ml/2023/02/07/video-music-test/"/>
     <id>https://blog.erics.ml/2023/02/07/video-music-test/</id>
     <published>2023-02-07T15:01:05.406Z</published>
-    <updated>2023-02-11T08:43:18.723Z</updated>
+    <updated>2023-06-01T11:55:29.106Z</updated>
     
     
     <summary type="html">本章将通过几个资源来测试两者之间的速度差异。</summary>
@@ -79,6 +79,8 @@
     <category term="测试" scheme="https://blog.erics.ml/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
+    <category term="计算机" scheme="https://blog.erics.ml/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
     <category term="Cloudflare" scheme="https://blog.erics.ml/tags/Cloudflare/"/>
     
     <category term="代理" scheme="https://blog.erics.ml/tags/%E4%BB%A3%E7%90%86/"/>
@@ -86,8 +88,6 @@
     <category term="GitHub" scheme="https://blog.erics.ml/tags/GitHub/"/>
     
     <category term="Hexo" scheme="https://blog.erics.ml/tags/Hexo/"/>
-    
-    <category term="计算机" scheme="https://blog.erics.ml/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
   </entry>
   
@@ -135,13 +135,13 @@
     <category term="Linux" scheme="https://blog.erics.ml/categories/Linux/"/>
     
     
-    <category term="计算机" scheme="https://blog.erics.ml/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
     <category term="Linux命令" scheme="https://blog.erics.ml/tags/Linux%E5%91%BD%E4%BB%A4/"/>
     
     <category term="学习" scheme="https://blog.erics.ml/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="基操" scheme="https://blog.erics.ml/tags/%E5%9F%BA%E6%93%8D/"/>
+    
+    <category term="计算机" scheme="https://blog.erics.ml/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
   </entry>
   
