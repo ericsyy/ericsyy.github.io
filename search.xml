@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>JavaScript test</title>
+    <url>/2023/02/11/js-test/</url>
+    <content><![CDATA[<h1 id="我的第一段-JavaScript"><a href="#我的第一段-JavaScript" class="headerlink" title="我的第一段 JavaScript"></a>我的第一段 JavaScript</h1><p><button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显示日期和时间<br></button></p>
+<p id="demo"></p>
+
+
+
+]]></content>
+      <categories>
+        <category>Web开发</category>
+      </categories>
+      <tags>
+        <tag>Html</tag>
+        <tag>Web</tag>
+        <tag>Javascript</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Linux基础命令(转)</title>
     <url>/2022/11/19/linux-command-teaching/</url>
     <content><![CDATA[<h1 id="Linux基础命令"><a href="#Linux基础命令" class="headerlink" title="Linux基础命令"></a>Linux基础命令</h1><h2 id="Linux的目录结构"><a href="#Linux的目录结构" class="headerlink" title="Linux的目录结构"></a>Linux的目录结构</h2><p><img src="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027214128.png" alt="image-20221027214128453"></p>
@@ -383,25 +402,6 @@
         <tag>学习</tag>
         <tag>基操</tag>
         <tag>计算机</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>JavaScript test</title>
-    <url>/2023/02/11/js-test/</url>
-    <content><![CDATA[<h1 id="我的第一段-JavaScript"><a href="#我的第一段-JavaScript" class="headerlink" title="我的第一段 JavaScript"></a>我的第一段 JavaScript</h1><p><button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显示日期和时间<br></button></p>
-<p id="demo"></p>
-
-
-
-]]></content>
-      <categories>
-        <category>Web开发</category>
-      </categories>
-      <tags>
-        <tag>Html</tag>
-        <tag>Web</tag>
-        <tag>Javascript</tag>
       </tags>
   </entry>
   <entry>
