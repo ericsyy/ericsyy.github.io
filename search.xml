@@ -3,7 +3,7 @@
   <entry>
     <title>MIUI12.5系统体验测评</title>
     <url>/2023/06/01/MIUI12.5%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%84/</url>
-    <content><![CDATA[<h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" controls preload="metadata">
+    <content><![CDATA[<h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" controls preload="none">
 <source src="https://blog.erics.ml/testRepo/MIUI12.5.mp4">
 </video>
 ]]></content>
@@ -34,81 +34,6 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
         <tag>Html</tag>
         <tag>Web</tag>
         <tag>Javascript</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Cloudflare代理和GitHub直连的资源访问速度</title>
-    <url>/2023/02/07/video-music-test/</url>
-    <content><![CDATA[<h1 id="本页面将通过几个资源来测试访问速度"><a href="#本页面将通过几个资源来测试访问速度" class="headerlink" title="本页面将通过几个资源来测试访问速度"></a>本页面将通过几个资源来测试访问速度</h1><h3 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h3><h5 id="Cloudflare"><a href="#Cloudflare" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp3</code></p>
-<span id="more"></span>
-
-<audio controls height="10" width="150" autoplay=false>
-  <source src="https://img.erics.ml/test.mp3" type="audio/mpeg">
-</audio>  
-
-<h5 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3</code></p>
-<audio controls height="10" width="150" autoplay=false>
-  <source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3" type="audio/mpeg">
-</audio>
-
-
-<h3 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h3><h5 id="Cloudflare-1"><a href="#Cloudflare-1" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp4</code></p>
-<video width="100%" height="100%" controls preload="metadata">
-<source src="https://img.erics.ml/test.mp4">
-</video>
-
-<h5 id="GitHub-1"><a href="#GitHub-1" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4</code></p>
-<video width="100%" height="100%" controls preload="metadata">
-<source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4">
-</video>
-
-<h3 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h3><h5 id="Cloudflare-2"><a href="#Cloudflare-2" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.jpg</code></p>
-<p><img src="https://img.erics.ml/test.jpg" alt="test.jpg"></p>
-<h5 id="GitHub-2"><a href="#GitHub-2" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg</code></p>
-<p><img src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg" alt="test.jpg"></p>
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>Cloudflare</tag>
-        <tag>代理</tag>
-        <tag>GitHub</tag>
-        <tag>Hexo</tag>
-        <tag>计算机</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>资源分享 2023-02-07</title>
-    <url>/2023/02/07/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB2023-02-07/</url>
-    <content><![CDATA[<h1 id="2023-02-07"><a href="#2023-02-07" class="headerlink" title="2023-02-07"></a>2023-02-07</h1><h4 id="注：以下链接均来自GitHub-release，国内下载慢属正常现象"><a href="#注：以下链接均来自GitHub-release，国内下载慢属正常现象" class="headerlink" title="注：以下链接均来自GitHub release，国内下载慢属正常现象"></a>注：以下链接均来自GitHub release，国内下载慢属正常现象</h4><h3 id=""><a href="#" class="headerlink" title=""></a></h3><blockquote>
-<p><a href="https://github.com/ericsyy/download-lib/releases/download/pdf/3208724_.4.pdf">计算机组成原理（第4版）.pdf</a><br><code>一本挺不错的书</code></p>
-</blockquote>
-<span id="more"></span>
-
-<h3 id="-1"><a href="#-1" class="headerlink" title=""></a></h3><blockquote>
-<p><a href="https://github.com/ericsyy/download-lib/releases/download/software/VMware-Workstation-Lite-16.2.3-19376536.exe">VMware-Workstation-Lite-16.2.3-19376536.exe</a><br><code>VMware直装版，解锁了macos</code>  </p>
-</blockquote>
-<h3 id="-2"><a href="#-2" class="headerlink" title=""></a></h3><blockquote>
-<p><a href="https://github.com/ericsyy/download-lib/releases/download/software/balenaEtcher-Setup-1.7.9.exe">balenaEtcher-Setup-1.7.9.exe</a><br><code>给类似于树莓派的设备刷写固件</code></p>
-</blockquote>
-<h3 id="-3"><a href="#-3" class="headerlink" title=""></a></h3><blockquote>
-<p><a href="https://github.com/ericsyy/download-lib/releases/download/software/EasyUEFI.v4.6.Enterprise.exe">EasyUEFI.v4.6.Enterprise.exe</a><br><code>EasyUEFI企业学习版，给电脑救砖用</code></p>
-</blockquote>
-<h3 id="-4"><a href="#-4" class="headerlink" title=""></a></h3><blockquote>
-<p><a href="https://github.com/ericsyy/download-lib/releases/download/else/openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin">openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin</a><br><a href="https://github.com/ericsyy/download-lib/releases/download/else/openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz">openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz</a><br><code>自用OpenWrt固件(mt76x8 &amp;&amp; armv8)</code>  </p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>软件分享</category>
-      </categories>
-      <tags>
-        <tag>计算机</tag>
-        <tag>虚拟机</tag>
-        <tag>OpenWrt</tag>
-        <tag>软件</tag>
-        <tag>pdf</tag>
-        <tag>书籍</tag>
       </tags>
   </entry>
   <entry>
@@ -490,28 +415,103 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
         <category>Linux</category>
       </categories>
       <tags>
-        <tag>计算机</tag>
         <tag>Linux命令</tag>
         <tag>学习</tag>
         <tag>基操</tag>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cloudflare代理和GitHub直连的资源访问速度</title>
+    <url>/2023/02/07/video-music-test/</url>
+    <content><![CDATA[<h2 id="本章将通过几个资源来测试访问速度"><a href="#本章将通过几个资源来测试访问速度" class="headerlink" title="本章将通过几个资源来测试访问速度"></a>本章将通过几个资源来测试访问速度</h2><h3 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h3><h5 id="Cloudflare"><a href="#Cloudflare" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp3</code></p>
+<span id="more"></span>
+
+<audio width="100%" height="100%" controls preload="none">
+  <source src="https://img.erics.ml/test.mp3" type="audio/mpeg">
+</audio>  
+
+<h5 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3</code></p>
+<audio width="100%" height="100%" controls preload="none">
+  <source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3" type="audio/mpeg">
+</audio>
+
+
+<h3 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h3><h5 id="Cloudflare-1"><a href="#Cloudflare-1" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp4</code></p>
+<video width="100%" height="100%" controls preload="none">
+<source src="https://img.erics.ml/test.mp4">
+</video>
+
+<h5 id="GitHub-1"><a href="#GitHub-1" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4</code></p>
+<video width="100%" height="100%" controls preload="none">
+<source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4">
+</video>
+
+<h3 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h3><h5 id="Cloudflare-2"><a href="#Cloudflare-2" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.jpg</code></p>
+<p><img src="https://img.erics.ml/test.jpg" alt="test.jpg"></p>
+<h5 id="GitHub-2"><a href="#GitHub-2" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg</code></p>
+<p><img src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg" alt="test.jpg"></p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>计算机</tag>
+        <tag>Cloudflare</tag>
+        <tag>代理</tag>
+        <tag>GitHub</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>资源分享 2023-02-07</title>
+    <url>/2023/02/07/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB2023-02-07/</url>
+    <content><![CDATA[<h1 id="2023-02-07"><a href="#2023-02-07" class="headerlink" title="2023-02-07"></a>2023-02-07</h1><h4 id="注：以下链接均来自GitHub-release，国内下载慢属正常现象"><a href="#注：以下链接均来自GitHub-release，国内下载慢属正常现象" class="headerlink" title="注：以下链接均来自GitHub release，国内下载慢属正常现象"></a>注：以下链接均来自GitHub release，国内下载慢属正常现象</h4><h3 id=""><a href="#" class="headerlink" title=""></a></h3><blockquote>
+<p><a href="https://github.com/ericsyy/download-lib/releases/download/pdf/3208724_.4.pdf">计算机组成原理（第4版）.pdf</a><br><code>一本挺不错的书</code></p>
+</blockquote>
+<span id="more"></span>
+
+<h3 id="-1"><a href="#-1" class="headerlink" title=""></a></h3><blockquote>
+<p><a href="https://github.com/ericsyy/download-lib/releases/download/software/VMware-Workstation-Lite-16.2.3-19376536.exe">VMware-Workstation-Lite-16.2.3-19376536.exe</a><br><code>VMware直装版，解锁了macos</code>  </p>
+</blockquote>
+<h3 id="-2"><a href="#-2" class="headerlink" title=""></a></h3><blockquote>
+<p><a href="https://github.com/ericsyy/download-lib/releases/download/software/balenaEtcher-Setup-1.7.9.exe">balenaEtcher-Setup-1.7.9.exe</a><br><code>给类似于树莓派的设备刷写固件</code></p>
+</blockquote>
+<h3 id="-3"><a href="#-3" class="headerlink" title=""></a></h3><blockquote>
+<p><a href="https://github.com/ericsyy/download-lib/releases/download/software/EasyUEFI.v4.6.Enterprise.exe">EasyUEFI.v4.6.Enterprise.exe</a><br><code>EasyUEFI企业学习版，给电脑救砖用</code></p>
+</blockquote>
+<h3 id="-4"><a href="#-4" class="headerlink" title=""></a></h3><blockquote>
+<p><a href="https://github.com/ericsyy/download-lib/releases/download/else/openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin">openwrt-ramips-mt76x8-xiaomi_miwifi-nano-squashfs-sysupgrade.bin</a><br><a href="https://github.com/ericsyy/download-lib/releases/download/else/openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz">openwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz</a><br><code>自用OpenWrt固件(mt76x8 &amp;&amp; armv8)</code>  </p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>软件分享</category>
+      </categories>
+      <tags>
+        <tag>计算机</tag>
+        <tag>虚拟机</tag>
+        <tag>OpenWrt</tag>
+        <tag>软件</tag>
+        <tag>pdf</tag>
+        <tag>书籍</tag>
       </tags>
   </entry>
   <entry>
     <title>银魂全集在线观看</title>
     <url>/2023/06/02/%E9%93%B6%E9%AD%82%E5%85%A8%E9%9B%86%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B/</url>
-    <content><![CDATA[<h2 id="银魂"><a href="#银魂" class="headerlink" title="银魂"></a>银魂</h2><h5 id="能睡的孩子长的壮"><a href="#能睡的孩子长的壮" class="headerlink" title="能睡的孩子长的壮"></a>能睡的孩子长的壮</h5><video width="100%" height="100%" controls preload="metadata">
+    <content><![CDATA[<h2 id="银魂"><a href="#银魂" class="headerlink" title="银魂"></a>银魂</h2><h5 id="能睡的孩子长的壮"><a href="#能睡的孩子长的壮" class="headerlink" title="能睡的孩子长的壮"></a>能睡的孩子长的壮</h5><video width="100%" height="100%" controls preload="none">
 <source src="https://blog.erics.ml/testRepo/银魂/能睡的孩子长的壮-c.mp4">
 </video>
 
-<h5 id="只要结局好一切都完美-胳膊拧不过大腿"><a href="#只要结局好一切都完美-胳膊拧不过大腿" class="headerlink" title="只要结局好一切都完美-胳膊拧不过大腿"></a>只要结局好一切都完美-胳膊拧不过大腿</h5><video width="100%" height="100%" controls preload="metadata">
+<h5 id="只要结局好一切都完美-胳膊拧不过大腿"><a href="#只要结局好一切都完美-胳膊拧不过大腿" class="headerlink" title="只要结局好一切都完美-胳膊拧不过大腿"></a>只要结局好一切都完美-胳膊拧不过大腿</h5><video width="100%" height="100%" controls preload="none">
 <source src="https://blog.erics.ml/testRepo/银魂/只要结局好一切都完美-胳膊拧不过大腿-c.mp4">
 </video>
 
-<h5 id="生日会上平时的家伙会像换了个人似的"><a href="#生日会上平时的家伙会像换了个人似的" class="headerlink" title="生日会上平时的家伙会像换了个人似的"></a>生日会上平时的家伙会像换了个人似的</h5><video width="100%" height="100%" controls preload="metadata">
+<h5 id="生日会上平时的家伙会像换了个人似的"><a href="#生日会上平时的家伙会像换了个人似的" class="headerlink" title="生日会上平时的家伙会像换了个人似的"></a>生日会上平时的家伙会像换了个人似的</h5><video width="100%" height="100%" controls preload="none">
 <source src="https://blog.erics.ml/testRepo/银魂/生日会上平时的家伙会像换了个人似的-c.mp4">
 </video>
 
-<h5 id="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"><a href="#理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）" class="headerlink" title="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"></a>理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）</h5><video width="100%" height="100%" controls preload="metadata">
+<h5 id="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"><a href="#理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）" class="headerlink" title="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"></a>理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）</h5><video width="100%" height="100%" controls preload="none">
 <source src="https://blog.erics.ml/testRepo/银魂/理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）-c.mp4">
 </video>
 ]]></content>
