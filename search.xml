@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>MIUI12.5系统体验测评</title>
+    <url>/2023/06/01/MIUI12.5%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%84/</url>
+    <content><![CDATA[<h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" preload="none" controls autoplay=false>
+<source src="https://blog.erics.ml/testRepo/MIUI12.5.mp4">
+</video>
+]]></content>
+      <categories>
+        <category>评测</category>
+      </categories>
+      <tags>
+        <tag>Android</tag>
+        <tag>MIUI</tag>
+        <tag>深度定制</tag>
+        <tag>隐私保护</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>JavaScript test</title>
     <url>/2023/02/11/js-test/</url>
     <content><![CDATA[<h1 id="我的第一段-JavaScript"><a href="#我的第一段-JavaScript" class="headerlink" title="我的第一段 JavaScript"></a>我的第一段 JavaScript</h1><p><button type="button"
@@ -489,7 +506,15 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
 <h5 id="只要结局好一切都完美-胳膊拧不过大腿"><a href="#只要结局好一切都完美-胳膊拧不过大腿" class="headerlink" title="只要结局好一切都完美-胳膊拧不过大腿"></a>只要结局好一切都完美-胳膊拧不过大腿</h5><video width="100%" height="100%" preload="none" controls autoplay=false>
 <source src="https://blog.erics.ml/testRepo/银魂/只要结局好一切都完美-胳膊拧不过大腿-c.mp4">
 </video>
-只要结局好一切都完美-胳膊拧不过大腿-c]]></content>
+
+<h5 id="生日会上平时的家伙会像换了个人似的"><a href="#生日会上平时的家伙会像换了个人似的" class="headerlink" title="生日会上平时的家伙会像换了个人似的"></a>生日会上平时的家伙会像换了个人似的</h5><video width="100%" height="100%" preload="none" controls autoplay=false>
+<source src="https://blog.erics.ml/testRepo/银魂/生日会上平时的家伙会像换了个人似的-c.mp4">
+</video>
+
+<h5 id="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"><a href="#理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）" class="headerlink" title="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"></a>理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）</h5><video width="100%" height="100%" preload="none" controls autoplay=false>
+<source src="https://blog.erics.ml/testRepo/银魂/理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）-c.mp4">
+</video>
+]]></content>
       <categories>
         <category>番剧</category>
       </categories>
@@ -497,23 +522,6 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
         <tag>动漫</tag>
         <tag>视频</tag>
         <tag>银魂</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>MIUI12.5系统体验测评</title>
-    <url>/2023/06/01/MIUI12.5%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%84/</url>
-    <content><![CDATA[<h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" preload="none" controls autoplay=false>
-<source src="https://blog.erics.ml/testRepo/MIUI12.5.mp4">
-</video>
-]]></content>
-      <categories>
-        <category>评测</category>
-      </categories>
-      <tags>
-        <tag>Android</tag>
-        <tag>MIUI</tag>
-        <tag>深度定制</tag>
-        <tag>隐私保护</tag>
       </tags>
   </entry>
 </search>
