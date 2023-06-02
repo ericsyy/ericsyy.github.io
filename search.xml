@@ -37,7 +37,7 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
       </tags>
   </entry>
   <entry>
-    <title>Linux基础命令(转)</title>
+    <title>Linux基础命令</title>
     <url>/2022/11/19/linux-command-teaching/</url>
     <content><![CDATA[<h1 id="Linux基础命令"><a href="#Linux基础命令" class="headerlink" title="Linux基础命令"></a>Linux基础命令</h1><h2 id="Linux的目录结构"><a href="#Linux的目录结构" class="headerlink" title="Linux的目录结构"></a>Linux的目录结构</h2><p><img src="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027214128.png" alt="image-20221027214128453"></p>
 <ul>
@@ -466,8 +466,8 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
   <entry>
     <title>资源分享 2023-02-07</title>
     <url>/2023/02/07/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB2023-02-07/</url>
-    <content><![CDATA[<h1 id="2023-02-07"><a href="#2023-02-07" class="headerlink" title="2023-02-07"></a>2023-02-07</h1><h4 id="注：以下链接均来自GitHub-release，国内下载慢属正常现象"><a href="#注：以下链接均来自GitHub-release，国内下载慢属正常现象" class="headerlink" title="注：以下链接均来自GitHub release，国内下载慢属正常现象"></a>注：以下链接均来自GitHub release，国内下载慢属正常现象</h4><h3 id=""><a href="#" class="headerlink" title=""></a></h3><blockquote>
-<p><a href="https://github.com/ericsyy/download-lib/releases/download/pdf/3208724_.4.pdf">计算机组成原理（第4版）.pdf</a><br><code>一本挺不错的书</code></p>
+    <content><![CDATA[<h4 id="注：以下链接均来自GitHub-release，国内下载慢属正常现象"><a href="#注：以下链接均来自GitHub-release，国内下载慢属正常现象" class="headerlink" title="注：以下链接均来自GitHub release，国内下载慢属正常现象"></a>注：以下链接均来自GitHub release，国内下载慢属正常现象</h4><h3 id=""><a href="#" class="headerlink" title=""></a></h3><blockquote>
+<p><a href="https://github.com/ericsyy/download-lib/releases/download/pdf/3208724_.4.pdf">计算机组成原理（第4版）.pdf</a><br><code>计算机入门必备</code></p>
 </blockquote>
 <span id="more"></span>
 

@@ -20,12 +20,12 @@
     var CONFIG = {"hostname":"blog.erics.ml","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#515151","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="本章内容较为基础，推荐刚入门Linux的新手阅读。">
+  <meta name="description" content="Linux，全称GNU&#x2F;Linux，是一种免费使用和自由传播的类UNIX操作系统，其内核由林纳斯·本纳第克特·托瓦兹（Linus Benedict Torvalds）于1991年10月5日首次发布，它主要受到Minix和Unix思想的启发，是一个基于POSIX的多用户、多任务、支持多线程和多CPU的操作系统。它支持32位和64位硬件，能运行主要的Unix工具软件、应用程序和网络协议。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Linux基础命令(转)">
+<meta property="og:title" content="Linux基础命令">
 <meta property="og:url" content="https://blog.erics.ml/2022/11/19/linux-command-teaching/index.html">
 <meta property="og:site_name" content="大观察家Eric&#39;s Blog">
-<meta property="og:description" content="本章内容较为基础，推荐刚入门Linux的新手阅读。">
+<meta property="og:description" content="Linux，全称GNU&#x2F;Linux，是一种免费使用和自由传播的类UNIX操作系统，其内核由林纳斯·本纳第克特·托瓦兹（Linus Benedict Torvalds）于1991年10月5日首次发布，它主要受到Minix和Unix思想的启发，是一个基于POSIX的多用户、多任务、支持多线程和多CPU的操作系统。它支持32位和64位硬件，能运行主要的Unix工具软件、应用程序和网络协议。">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027214128.png">
 <meta property="og:image" content="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027215841.png">
@@ -62,7 +62,7 @@
 <meta property="og:image" content="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222446.png">
 <meta property="og:image" content="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027222512.png">
 <meta property="article:published_time" content="2022-11-19T05:06:15.175Z">
-<meta property="article:modified_time" content="2023-06-01T11:28:05.972Z">
+<meta property="article:modified_time" content="2023-06-02T08:02:53.886Z">
 <meta property="article:author" content="Eric Shi">
 <meta property="article:tag" content="Linux命令">
 <meta property="article:tag" content="学习">
@@ -84,7 +84,7 @@
   };
 </script>
 
-  <title>Linux基础命令(转) | 大观察家Eric's Blog</title>
+  <title>Linux基础命令 | 大观察家Eric's Blog</title>
   
 
 
@@ -251,7 +251,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          Linux基础命令(转)
+          Linux基础命令
         </h1>
 
         <div class="post-meta">
@@ -268,7 +268,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2023-06-01 19:28:05" itemprop="dateModified" datetime="2023-06-01T19:28:05+08:00">2023-06-01</time>
+                <time title="修改时间：2023-06-02 16:02:53" itemprop="dateModified" datetime="2023-06-02T16:02:53+08:00">2023-06-02</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -281,7 +281,7 @@
             </span>
 
           
-            <span id="/2022/11/19/linux-command-teaching/" class="post-meta-item leancloud_visitors" data-flag-title="Linux基础命令(转)" title="阅读次数">
+            <span id="/2022/11/19/linux-command-teaching/" class="post-meta-item leancloud_visitors" data-flag-title="Linux基础命令" title="阅读次数">
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
               </span>
@@ -316,7 +316,7 @@
                 <span class="post-meta-item-text">阅读时长 &asymp;</span>
               <span>5 分钟</span>
             </span>
-            <div class="post-description">本章内容较为基础，推荐刚入门Linux的新手阅读。</div>
+            <div class="post-description">Linux，全称GNU/Linux，是一种免费使用和自由传播的类UNIX操作系统，其内核由林纳斯·本纳第克特·托瓦兹（Linus Benedict Torvalds）于1991年10月5日首次发布，它主要受到Minix和Unix思想的启发，是一个基于POSIX的多用户、多任务、支持多线程和多CPU的操作系统。它支持32位和64位硬件，能运行主要的Unix工具软件、应用程序和网络协议。</div>
 
         </div>
       </header>
@@ -733,7 +733,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="https://blog.erics.ml/2022/11/19/linux-command-teaching/" title="Linux基础命令(转)">https://blog.erics.ml/2022/11/19/linux-command-teaching/</a>
+    <a href="https://blog.erics.ml/2022/11/19/linux-command-teaching/" title="Linux基础命令">https://blog.erics.ml/2022/11/19/linux-command-teaching/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener external nofollow noreferrer" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！

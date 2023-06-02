@@ -121,10 +121,12 @@
     <link href="https://blog.erics.ml/2023/02/07/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB2023-02-07/"/>
     <id>https://blog.erics.ml/2023/02/07/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB2023-02-07/</id>
     <published>2023-02-07T13:00:19.289Z</published>
-    <updated>2023-06-02T08:00:26.917Z</updated>
+    <updated>2023-06-02T08:04:17.623Z</updated>
     
     
-    <summary type="html">资源分享。</summary>
+    <summary type="html">&lt;h4 id=&quot;注：以下链接均来自GitHub-release，国内下载慢属正常现象&quot;&gt;&lt;a href=&quot;#注：以下链接均来自GitHub-release，国内下载慢属正常现象&quot; class=&quot;headerlink&quot; title=&quot;注：以下链接均来自GitHub release，国内下载慢属正常现象&quot;&gt;&lt;/a&gt;注：以下链接均来自GitHub release，国内下载慢属正常现象&lt;/h4&gt;&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ericsyy/download-lib/releases/download/pdf/3208724_.4.pdf&quot;&gt;计算机组成原理（第4版）.pdf&lt;/a&gt;&lt;br&gt;&lt;code&gt;计算机入门必备&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
     
     
     
@@ -146,14 +148,14 @@
   </entry>
   
   <entry>
-    <title>Linux基础命令(转)</title>
+    <title>Linux基础命令</title>
     <link href="https://blog.erics.ml/2022/11/19/linux-command-teaching/"/>
     <id>https://blog.erics.ml/2022/11/19/linux-command-teaching/</id>
     <published>2022-11-19T05:06:15.175Z</published>
-    <updated>2023-06-01T11:28:05.972Z</updated>
+    <updated>2023-06-02T08:02:53.886Z</updated>
     
     
-    <summary type="html">本章内容较为基础，推荐刚入门Linux的新手阅读。</summary>
+    <summary type="html">Linux，全称GNU/Linux，是一种免费使用和自由传播的类UNIX操作系统，其内核由林纳斯·本纳第克特·托瓦兹（Linus Benedict Torvalds）于1991年10月5日首次发布，它主要受到Minix和Unix思想的启发，是一个基于POSIX的多用户、多任务、支持多线程和多CPU的操作系统。它支持32位和64位硬件，能运行主要的Unix工具软件、应用程序和网络协议。</summary>
     
     
     
