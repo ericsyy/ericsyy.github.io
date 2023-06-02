@@ -1,22 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>JavaScript test</title>
-    <url>/2023/02/11/js-test/</url>
-    <content><![CDATA[<h1 id="我的第一段-JavaScript"><a href="#我的第一段-JavaScript" class="headerlink" title="我的第一段 JavaScript"></a>我的第一段 JavaScript</h1><p><button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显示日期和时间<br></button></p>
-<p id="demo"></p>
-
-
-
+    <title>MIUI12.5系统体验测评</title>
+    <url>/2023/06/01/MIUI12.5%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%84/</url>
+    <content><![CDATA[<h3 id="MIUI-12-5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。MIUI-12-5改进了“米柚光锥动效架构”，包括动效、声音、拟真自然触感等功能，并对照明弹、拦截网、隐匿面具等隐私保护功能进行升级，使用了基于差分隐私的融合模糊定位技术。"><a href="#MIUI-12-5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。MIUI-12-5改进了“米柚光锥动效架构”，包括动效、声音、拟真自然触感等功能，并对照明弹、拦截网、隐匿面具等隐私保护功能进行升级，使用了基于差分隐私的融合模糊定位技术。" class="headerlink" title="MIUI 12.5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。MIUI 12.5改进了“米柚光锥动效架构”，包括动效、声音、拟真自然触感等功能，并对照明弹、拦截网、隐匿面具等隐私保护功能进行升级，使用了基于差分隐私的融合模糊定位技术。"></a>MIUI 12.5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。MIUI 12.5改进了“米柚光锥动效架构”，包括动效、声音、拟真自然触感等功能，并对照明弹、拦截网、隐匿面具等隐私保护功能进行升级，使用了基于差分隐私的融合模糊定位技术。</h3><h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" preload="none" controls autoplay=false>
+<source src="https://blog.erics.ml/testRepo/MIUI12.5.mp4">
+</video>
 ]]></content>
       <categories>
-        <category>Web开发</category>
+        <category>评测</category>
       </categories>
       <tags>
-        <tag>Html</tag>
-        <tag>Web</tag>
-        <tag>Javascript</tag>
+        <tag>Android</tag>
+        <tag>MIUI</tag>
+        <tag>深度定制</tag>
+        <tag>隐私保护</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cloudflare代理和GitHub直连的资源访问速度</title>
+    <url>/2023/02/07/video-music-test/</url>
+    <content><![CDATA[<h1 id="本页面将通过几个资源来测试访问速度"><a href="#本页面将通过几个资源来测试访问速度" class="headerlink" title="本页面将通过几个资源来测试访问速度"></a>本页面将通过几个资源来测试访问速度</h1><h3 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h3><h5 id="Cloudflare"><a href="#Cloudflare" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp3</code></p>
+<span id="more"></span>
+
+<audio controls height="10" width="150" autoplay=false>
+  <source src="https://img.erics.ml/test.mp3" type="audio/mpeg">
+</audio>  
+
+<h5 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3</code></p>
+<audio controls height="10" width="150" autoplay=false>
+  <source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3" type="audio/mpeg">
+</audio>
+
+
+<h3 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h3><h5 id="Cloudflare-1"><a href="#Cloudflare-1" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp4</code></p>
+<video width="100%" height="100%" preload="none" controls autoplay=false>
+<source src="https://img.erics.ml/test.mp4">
+</video>
+
+<h5 id="GitHub-1"><a href="#GitHub-1" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4</code></p>
+<video width="100%" height="100%" preload="none" controls autoplay=false>
+<source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4">
+</video>
+
+<h3 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h3><h5 id="Cloudflare-2"><a href="#Cloudflare-2" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.jpg</code></p>
+<p><img src="https://img.erics.ml/test.jpg" alt="test.jpg"></p>
+<h5 id="GitHub-2"><a href="#GitHub-2" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg</code></p>
+<p><img src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg" alt="test.jpg"></p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>Cloudflare</tag>
+        <tag>代理</tag>
+        <tag>GitHub</tag>
+        <tag>Hexo</tag>
+        <tag>计算机</tag>
       </tags>
   </entry>
   <entry>
@@ -398,27 +438,26 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
         <category>Linux</category>
       </categories>
       <tags>
+        <tag>计算机</tag>
         <tag>Linux命令</tag>
         <tag>学习</tag>
         <tag>基操</tag>
-        <tag>计算机</tag>
       </tags>
   </entry>
   <entry>
-    <title>MIUI12.5系统体验测评</title>
-    <url>/2023/06/01/MIUI12.5%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%84/</url>
-    <content><![CDATA[<h1 id="MIUI-12-5是小米公司推出的移动端操作系统"><a href="#MIUI-12-5是小米公司推出的移动端操作系统" class="headerlink" title="MIUI 12.5是小米公司推出的移动端操作系统"></a>MIUI 12.5是小米公司推出的移动端操作系统</h1><h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" preload="none" controls autoplay=false>
-<source src="https://blog.erics.ml/testRepo/MIUI12.5.mp4">
+    <title>银魂全集在线观看</title>
+    <url>/2023/06/02/%E9%93%B6%E9%AD%82%E5%85%A8%E9%9B%86%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B/</url>
+    <content><![CDATA[<h3 id="《银魂》是由日本漫画家空知英秋创作的少年漫画作品，于2004年2号的《周刊少年Jump》开始连载，并于2018年42号结束连载。后转移至《JUMP-GIGA》2019-WINTER-vol-1-vol-3继续连载，而后转移到银魂App连载，并于2019年6月20日推送最终回。"><a href="#《银魂》是由日本漫画家空知英秋创作的少年漫画作品，于2004年2号的《周刊少年Jump》开始连载，并于2018年42号结束连载。后转移至《JUMP-GIGA》2019-WINTER-vol-1-vol-3继续连载，而后转移到银魂App连载，并于2019年6月20日推送最终回。" class="headerlink" title="《银魂》是由日本漫画家空知英秋创作的少年漫画作品，于2004年2号的《周刊少年Jump》开始连载，并于2018年42号结束连载。后转移至《JUMP GIGA》2019 WINTER vol.1~vol.3继续连载，而后转移到银魂App连载，并于2019年6月20日推送最终回。"></a>《银魂》是由日本漫画家空知英秋创作的少年漫画作品，于2004年2号的《周刊少年Jump》开始连载，并于2018年42号结束连载。后转移至《JUMP GIGA》2019 WINTER vol.1~vol.3继续连载，而后转移到银魂App连载，并于2019年6月20日推送最终回。</h3><h4 id="能睡的孩子长的壮"><a href="#能睡的孩子长的壮" class="headerlink" title="能睡的孩子长的壮"></a>能睡的孩子长的壮</h4><video width="100%" height="100%" preload="none" controls autoplay=false>
+<source src="https://blog.erics.ml/testRepo/银魂/能睡的孩子长的壮-c.mp4">
 </video>
 ]]></content>
       <categories>
-        <category>评测</category>
+        <category>番剧</category>
       </categories>
       <tags>
-        <tag>Android</tag>
-        <tag>MIUI</tag>
-        <tag>深度定制</tag>
-        <tag>隐私保护</tag>
+        <tag>动漫</tag>
+        <tag>视频</tag>
+        <tag>银魂</tag>
       </tags>
   </entry>
   <entry>
@@ -455,45 +494,22 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
       </tags>
   </entry>
   <entry>
-    <title>Cloudflare代理和GitHub直连的资源访问速度</title>
-    <url>/2023/02/07/video-music-test/</url>
-    <content><![CDATA[<h1 id="本页面将通过几个资源来测试访问速度"><a href="#本页面将通过几个资源来测试访问速度" class="headerlink" title="本页面将通过几个资源来测试访问速度"></a>本页面将通过几个资源来测试访问速度</h1><h3 id="音频测试"><a href="#音频测试" class="headerlink" title="音频测试"></a>音频测试</h3><h5 id="Cloudflare"><a href="#Cloudflare" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp3</code></p>
-<span id="more"></span>
-
-<audio controls height="10" width="150" autoplay=false>
-  <source src="https://img.erics.ml/test.mp3" type="audio/mpeg">
-</audio>  
-
-<h5 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3</code></p>
-<audio controls height="10" width="150" autoplay=false>
-  <source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp3" type="audio/mpeg">
-</audio>
+    <title>JavaScript test</title>
+    <url>/2023/02/11/js-test/</url>
+    <content><![CDATA[<h1 id="我的第一段-JavaScript"><a href="#我的第一段-JavaScript" class="headerlink" title="我的第一段 JavaScript"></a>我的第一段 JavaScript</h1><p><button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显示日期和时间<br></button></p>
+<p id="demo"></p>
 
 
-<h3 id="视频测试"><a href="#视频测试" class="headerlink" title="视频测试"></a>视频测试</h3><h5 id="Cloudflare-1"><a href="#Cloudflare-1" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.mp4</code></p>
-<video width="100%" height="100%" preload="none" controls autoplay=false>
-<source src="https://img.erics.ml/test.mp4">
-</video>
 
-<h5 id="GitHub-1"><a href="#GitHub-1" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4</code></p>
-<video width="100%" height="100%" preload="none" controls autoplay=false>
-<source src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.mp4">
-</video>
-
-<h3 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h3><h5 id="Cloudflare-2"><a href="#Cloudflare-2" class="headerlink" title="Cloudflare"></a>Cloudflare</h5><p><code>https://img.erics.ml/test.jpg</code></p>
-<p><img src="https://img.erics.ml/test.jpg" alt="test.jpg"></p>
-<h5 id="GitHub-2"><a href="#GitHub-2" class="headerlink" title="GitHub"></a>GitHub</h5><p><code>https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg</code></p>
-<p><img src="https://raw.githubusercontent.com/ericsyy/blog-image/main/test.jpg" alt="test.jpg"></p>
 ]]></content>
       <categories>
-        <category>测试</category>
+        <category>Web开发</category>
       </categories>
       <tags>
-        <tag>计算机</tag>
-        <tag>Cloudflare</tag>
-        <tag>代理</tag>
-        <tag>GitHub</tag>
-        <tag>Hexo</tag>
+        <tag>Html</tag>
+        <tag>Web</tag>
+        <tag>Javascript</tag>
       </tags>
   </entry>
 </search>
