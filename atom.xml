@@ -6,7 +6,7 @@
   <link href="https://blog.erics.ml/atom.xml" rel="self"/>
   
   <link href="https://blog.erics.ml/"/>
-  <updated>2023-06-02T07:38:31.805Z</updated>
+  <updated>2023-06-02T08:00:47.580Z</updated>
   <id>https://blog.erics.ml/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.erics.ml/2023/06/02/%E9%93%B6%E9%AD%82%E5%85%A8%E9%9B%86%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B/"/>
     <id>https://blog.erics.ml/2023/06/02/%E9%93%B6%E9%AD%82%E5%85%A8%E9%9B%86%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B/</id>
     <published>2023-06-02T06:25:22.794Z</published>
-    <updated>2023-06-02T07:38:31.805Z</updated>
+    <updated>2023-06-02T08:00:47.580Z</updated>
     
     
     <summary type="html">《银魂》是由日本漫画家空知英秋创作的少年漫画作品，于2004年2号的《周刊少年Jump》开始连载，并于2018年42号结束连载。后转移至《JUMP GIGA》2019 WINTER vol.1~vol.3继续连载，而后转移到银魂App连载，并于2019年6月20日推送最终回。</summary>
@@ -36,6 +36,8 @@
     <category term="视频" scheme="https://blog.erics.ml/tags/%E8%A7%86%E9%A2%91/"/>
     
     <category term="银魂" scheme="https://blog.erics.ml/tags/%E9%93%B6%E9%AD%82/"/>
+    
+    <category term="在线观看" scheme="https://blog.erics.ml/tags/%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B/"/>
     
   </entry>
   
@@ -92,14 +94,14 @@
     <link href="https://blog.erics.ml/2023/02/07/video-music-test/"/>
     <id>https://blog.erics.ml/2023/02/07/video-music-test/</id>
     <published>2023-02-07T15:01:05.406Z</published>
-    <updated>2023-06-02T07:38:02.449Z</updated>
+    <updated>2023-06-02T08:00:12.943Z</updated>
     
     
     <summary type="html">Cloudflare是一家美国的跨国科技企业，总部位于旧金山，在英国伦敦亦设有办事处。Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。通过基于反向代理的内容分发网络(CDN, Content Delivery Network)、任播(Anycast)技术、基于nginx+lua架构的Web应用防火墙(WAF, Web Application Firewall) 及分布式域名解析服务(Distributed Domain Name Server)等技术，Cloudflare可以帮助受保护站点抵御包括分布式拒绝服务攻击(DDoS, Distributed Denial of Service)在内的大多数网络攻击，确保该网站长期在线，同时提升网站的性能、访问速度以改善访客体验。</summary>
     
     
     
-    <category term="测试" scheme="https://blog.erics.ml/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="评测" scheme="https://blog.erics.ml/categories/%E8%AF%84%E6%B5%8B/"/>
     
     
     <category term="计算机" scheme="https://blog.erics.ml/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
@@ -119,14 +121,14 @@
     <link href="https://blog.erics.ml/2023/02/07/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB2023-02-07/"/>
     <id>https://blog.erics.ml/2023/02/07/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB2023-02-07/</id>
     <published>2023-02-07T13:00:19.289Z</published>
-    <updated>2023-02-09T00:17:05.350Z</updated>
+    <updated>2023-06-02T08:00:26.917Z</updated>
     
     
     <summary type="html">资源分享。</summary>
     
     
     
-    <category term="软件分享" scheme="https://blog.erics.ml/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://blog.erics.ml/categories/%E5%88%86%E4%BA%AB/"/>
     
     
     <category term="计算机" scheme="https://blog.erics.ml/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
