@@ -20,27 +20,6 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
       </tags>
   </entry>
   <entry>
-    <title>MIUI12.5系统体验测评</title>
-    <url>/2023/06/01/miui12.5-system-experience-evaluation/</url>
-    <content><![CDATA[<p><img src="https://img.erics.ml/cover/miui12.5.jpg" alt="tmiui12.5.jpg"><br>MIUI 12.5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。MIUI 12.5改进了“米柚光锥动效架构”，包括动效、声音、拟真自然触感等功能，并对照明弹、拦截网、隐匿面具等隐私保护功能进行升级，使用了基于差分隐私的融合模糊定位技术。</p>
-<span id="more"></span>
-
-
-<h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" controls preload="none">
-<source src="https://blog.erics.ml/testRepo/MIUI12.5.mp4">
-</video>
-]]></content>
-      <categories>
-        <category>评测</category>
-      </categories>
-      <tags>
-        <tag>Android</tag>
-        <tag>MIUI</tag>
-        <tag>深度定制</tag>
-        <tag>隐私保护</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Linux基础命令</title>
     <url>/2022/11/19/linux-command-teaching/</url>
     <content><![CDATA[<h1 id="Linux基础命令"><a href="#Linux基础命令" class="headerlink" title="Linux基础命令"></a>Linux基础命令</h1><h2 id="Linux的目录结构"><a href="#Linux的目录结构" class="headerlink" title="Linux的目录结构"></a>Linux的目录结构</h2><p><img src="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027214128.png" alt="image-20221027214128453"></p>
@@ -465,6 +444,27 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
         <tag>代理</tag>
         <tag>GitHub</tag>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MIUI12.5系统体验测评</title>
+    <url>/2023/06/01/miui12.5-system-experience-evaluation/</url>
+    <content><![CDATA[<p><img src="https://img.erics.ml/cover/miui12.5.jpg" alt="tmiui12.5.jpg"><br>MIUI 12.5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。MIUI 12.5改进了“米柚光锥动效架构”，包括动效、声音、拟真自然触感等功能，并对照明弹、拦截网、隐匿面具等隐私保护功能进行升级，使用了基于差分隐私的融合模糊定位技术。</p>
+<span id="more"></span>
+
+
+<h5 id="MIUI12-5-介绍视频"><a href="#MIUI12-5-介绍视频" class="headerlink" title="MIUI12.5 介绍视频"></a>MIUI12.5 介绍视频</h5><video width="100%" height="100%" controls preload="none">
+<source src="https://blog.erics.ml/testRepo/MIUI12.5.mp4">
+</video>
+]]></content>
+      <categories>
+        <category>评测</category>
+      </categories>
+      <tags>
+        <tag>Android</tag>
+        <tag>MIUI</tag>
+        <tag>深度定制</tag>
+        <tag>隐私保护</tag>
       </tags>
   </entry>
   <entry>
