@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>JavaScript test</title>
+    <url>/2023/02/11/js-test/</url>
+    <content><![CDATA[<h1 id="我的第一段-JavaScript"><a href="#我的第一段-JavaScript" class="headerlink" title="我的第一段 JavaScript"></a>我的第一段 JavaScript</h1><p><button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显示日期和时间<br></button></p>
+<p id="demo"></p>
+
+
+
+]]></content>
+      <categories>
+        <category>Web开发</category>
+      </categories>
+      <tags>
+        <tag>Html</tag>
+        <tag>Web</tag>
+        <tag>Javascript</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Linux基础命令</title>
     <url>/2022/11/19/linux-command-teaching/</url>
     <content><![CDATA[<h1 id="Linux基础命令"><a href="#Linux基础命令" class="headerlink" title="Linux基础命令"></a>Linux基础命令</h1><h2 id="Linux的目录结构"><a href="#Linux的目录结构" class="headerlink" title="Linux的目录结构"></a>Linux的目录结构</h2><p><img src="https://image-set.oss-cn-zhangjiakou.aliyuncs.com/img-out/2022/10/27/20221027214128.png" alt="image-20221027214128453"></p>
@@ -386,25 +405,6 @@
       </tags>
   </entry>
   <entry>
-    <title>JavaScript test</title>
-    <url>/2023/02/11/js-test/</url>
-    <content><![CDATA[<h1 id="我的第一段-JavaScript"><a href="#我的第一段-JavaScript" class="headerlink" title="我的第一段 JavaScript"></a>我的第一段 JavaScript</h1><p><button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显示日期和时间<br></button></p>
-<p id="demo"></p>
-
-
-
-]]></content>
-      <categories>
-        <category>Web开发</category>
-      </categories>
-      <tags>
-        <tag>Html</tag>
-        <tag>Web</tag>
-        <tag>Javascript</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>MIUI12.5系统体验测评</title>
     <url>/2023/06/01/miui12.5-system-experience-evaluation/</url>
     <content><![CDATA[<p><img src="https://img.erics.ml/cover/miui12.5.jpg" alt="tmiui12.5.jpg"><br>MIUI 12.5是小米公司推出的移动端操作系统，于2020年12月28日正式发布。MIUI 12.5改进了“米柚光锥动效架构”，包括动效、声音、拟真自然触感等功能，并对照明弹、拦截网、隐匿面具等隐私保护功能进行升级，使用了基于差分隐私的融合模糊定位技术。</p>
@@ -498,38 +498,6 @@ onclick="document.getElementById('demo').innerHTML = Date()"><br>点击我来显
         <tag>代理</tag>
         <tag>GitHub</tag>
         <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>银魂全集在线观看</title>
-    <url>/2023/06/02/yinhun-anime-online-viewing/</url>
-    <content><![CDATA[<p><img src="https://img.erics.ml/cover/yinhun.jpg" alt="yinhun.jpg"><br>《银魂》是由日本漫画家空知英秋创作的少年漫画作品，于2004年2号的《周刊少年Jump》开始连载，并于2018年42号结束连载。后转移至《JUMP GIGA》2019 WINTER vol.1~vol.3继续连载，而后转移到银魂App连载，并于2019年6月20日推送最终回。</p>
-<span id="more"></span>
-
-<h2 id="银魂"><a href="#银魂" class="headerlink" title="银魂"></a>银魂</h2><h5 id="能睡的孩子长的壮"><a href="#能睡的孩子长的壮" class="headerlink" title="能睡的孩子长的壮"></a>能睡的孩子长的壮</h5><video width="100%" height="100%" controls preload="none">
-<source src="https://blog.erics.ml/testRepo/银魂/能睡的孩子长的壮-c.mp4">
-</video>
-
-<h5 id="只要结局好一切都完美-胳膊拧不过大腿"><a href="#只要结局好一切都完美-胳膊拧不过大腿" class="headerlink" title="只要结局好一切都完美-胳膊拧不过大腿"></a>只要结局好一切都完美-胳膊拧不过大腿</h5><video width="100%" height="100%" controls preload="none">
-<source src="https://blog.erics.ml/testRepo/银魂/只要结局好一切都完美-胳膊拧不过大腿-c.mp4">
-</video>
-
-<h5 id="生日会上平时的家伙会像换了个人似的"><a href="#生日会上平时的家伙会像换了个人似的" class="headerlink" title="生日会上平时的家伙会像换了个人似的"></a>生日会上平时的家伙会像换了个人似的</h5><video width="100%" height="100%" controls preload="none">
-<source src="https://blog.erics.ml/testRepo/银魂/生日会上平时的家伙会像换了个人似的-c.mp4">
-</video>
-
-<h5 id="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"><a href="#理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）" class="headerlink" title="理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）"></a>理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）</h5><video width="100%" height="100%" controls preload="none">
-<source src="https://blog.erics.ml/testRepo/银魂/理发师一边剪头发一边和你聊的话题是全世界最无关紧要的（理发篇）-c.mp4">
-</video>
-]]></content>
-      <categories>
-        <category>番剧</category>
-      </categories>
-      <tags>
-        <tag>动漫</tag>
-        <tag>视频</tag>
-        <tag>银魂</tag>
-        <tag>在线观看</tag>
       </tags>
   </entry>
 </search>
